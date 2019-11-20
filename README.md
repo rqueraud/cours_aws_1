@@ -116,7 +116,7 @@ Nous utiliserons majoritairement le langage python pour les prochains cours, don
 
 **Attention**: Si vous terminez l'instance EC2, vous perdez votre travail. Pensez donc à télécharger le fichier avant de partir !
 
-## Partie 10 : Extinction 
+## Partie 8 : Extinction 
 
 Une fois terminé, arrêter l'instance :
 
